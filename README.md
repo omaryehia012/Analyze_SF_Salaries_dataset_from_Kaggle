@@ -1,0 +1,2 @@
+# Project_6_Analyze_SF_Salaries_dataset_from_Kaggle
+Application for Pandas library
